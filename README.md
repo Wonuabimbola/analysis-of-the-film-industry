@@ -54,12 +54,12 @@ We can see that there are only 2 directors that were very successful in both mar
 ### Conclusion
 
 Based on our findings, we believe Microsoft Studios would find the most success hiring directors such as Joss Whedon and Zane Burden, who have made movies that were both profitable and had both domestic and worldwide appeal. 
-Movies that are produced should either musicals, animated or sci-fi. Though the production budget for these genres can be high, the profit is significantly higher. 
+Movies that are produced should be musicals, animated or sci-fi. Though the production budget for these genres can be high, the profit is significantly higher. 
 Our last recommendation is that movies should be released in May, June, or July. If that 3 month window is missed then November would be the only other recommended time.
 
 ### Summary
 
- - Hire directors with who have proven worldwide appeal (E.g. Joss Whedon, Zane Burden)
+ - Hire directors who have proven worldwide appeal (E.g. Joss Whedon, Zane Burden)
  - Create musicals, animated films, or sci-fi movies
  - Ideally release movies between May - July
 
@@ -70,6 +70,18 @@ We do want to make a note that during our analysis we left many avenues of resea
  - Since the pandemic started it would be wise to do another study of profitability into streaming services. Since movies released on streaming services do not have a traditional measure for gross profit, they could not be included in this project but their impact on the future should not be ignored.
 
  - The role advertisement plays in monetary success of a movie should be explored and considered
+
+Navigation:
+data_analysis.ipynb: Final notebook containing our finished work and discussions
+data_cleaning.ipynb: Notebooks containing the authors preliminary EDA and data cleaning
+data_exploration: Notebooks containing the exploration of the data in zippedData file
+clean_data.csv: File containing our cleaned data sets
+aggregate.db: database used in storing and retrieving our data 
+zippedData: Original data obtained from the Flatiron School
+README.md: Synopsis containing our key findings
+Images: Folder containing images used in this project
+analysis_of_film_industry.pdf: The final presentation
+
 
 
 
