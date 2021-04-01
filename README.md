@@ -1,6 +1,6 @@
 # Movies: A Data Analysis
 ## A Phase 1 Project
-**Authors**: Wonu , Edgar Gonzalez
+**Authors**: Wonuola Abimbola , Edgar Gonzalez
 ![img](./images/Microsoft_Studios_Logo.png)
 
 ### Overview
