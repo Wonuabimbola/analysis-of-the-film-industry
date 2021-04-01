@@ -71,16 +71,26 @@ We do want to make a note that during our analysis we left many avenues of resea
 
  - The role advertisement plays in monetary success of a movie should be explored and considered
 
-Navigation:
-data_analysis.ipynb: Final notebook containing our finished work and discussions
-data_cleaning.ipynb: Notebooks containing the authors preliminary EDA and data cleaning
-data_exploration: Notebooks containing the exploration of the data in zippedData file
-clean_data.csv: File containing our cleaned data sets
-aggregate.db: database used in storing and retrieving our data 
-zippedData: Original data obtained from the Flatiron School
-README.md: Synopsis containing our key findings
-Images: Folder containing images used in this project
-analysis_of_film_industry.pdf: The final presentation
+## Navigation:
+
+-data_analysis.ipynb: Final notebook containing our finished work and discussions
+
+-data_cleaning.ipynb: Notebooks containing the authors preliminary EDA and data cleaning
+
+-data_exploration: Notebooks containing the exploration of the data in zippedData file
+
+-clean_data.csv: File containing our cleaned data sets
+
+-aggregate.db: database used in storing and retrieving our data 
+
+-zippedData: Original data obtained from the Flatiron School
+
+-README.md: Synopsis containing our key findings
+
+-Images: Folder containing images used in this project
+
+-analysis_of_film_industry.pdf: The final presentation
+
 
 
 
