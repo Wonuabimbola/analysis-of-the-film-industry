@@ -19,7 +19,7 @@ Microsoft wants to open a film division of Microsoft Studios but lacks any knowl
 ### Our Data 
 
 Original datasets used can be found in the folder `zippedData` which were provided by The Flatiron School.
-Images and images of plots used in this README.md are in the folder `images`, and data used for analysis can be found in `clean_data.csv` and `aggregate.db`.
+Images and images of plots used in this README.md are in the folder `images`, and data used for analysis can be found in 'Data" Folder.
 
 
 ### Methods
@@ -73,15 +73,15 @@ We do want to make a note that during our analysis we left many avenues of resea
 
 ## Navigation:
 
--data_analysis.ipynb: Final notebook containing our finished work and discussions
+-data_analysis.ipynb: Final notebook containing our finished work and discussions (/Data)
 
--data_cleaning.ipynb: Notebooks containing the authors preliminary EDA and data cleaning
+-data_cleaning.ipynb: Notebooks containing the authors preliminary EDA and data cleaning (/Data)
 
--data_exploration: Notebooks containing the exploration of the data in zippedData file
+-data_exploration: Notebooks containing the exploration of the data in zippedData file (/Data)
 
--clean_data.csv: File containing our cleaned data sets
+-clean_data.csv: File containing our cleaned data sets (/Data)
 
--aggregate.db: database used in storing and retrieving our data 
+-aggregate.db: database used in storing and retrieving our data  (/Data)
 
 -zippedData: Original data obtained from the Flatiron School
 
@@ -89,7 +89,7 @@ We do want to make a note that during our analysis we left many avenues of resea
 
 -Images: Folder containing images used in this project
 
--analysis_of_film_industry.pdf: The final presentation
+-analysis_of_film_industry_.pdf: The final presentation
 
 
 
