@@ -2,7 +2,7 @@
 
 ## A Phase 1 Project
 
-**Authors**: Wonuola Abimbola, Edgar Gonzalez
+**Authors**: [Wonuola Abimbola](https://github.com/Wonuabimbola), [Edgar Gonzalez](https://github.com/edgarg429)
 
 ![img](./images/Microsoft_Studios_Logo.png)
 
@@ -84,6 +84,13 @@ We do want to make a note that during our analysis we left many avenues of resea
 ├── analysis_of_film_industry_.pdf                            <- The final presentation
 ├── analysis_of_the_film_industry_cleaning.ipynb              <- preliminary EDA and data cleaning
 └── analysis_of_the_film_industry_final.ipynb                 <- final notebook
+
+```
+## Contact Information
+
+With questions or feedback on this repository, please reach out via:
+- [GitHub](https://github.com/Wonuabimbola)
+- [LinkedIn](https://www.linkedin.com/in/wonuola-abimbola)
 
 
 
