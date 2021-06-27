@@ -73,15 +73,15 @@ We do want to make a note that during our analysis we left many avenues of resea
 
 ## Navigation:
 
--data_analysis.ipynb: Final notebook containing our finished work and discussions (/Data)
+-data_analysis.ipynb: Final notebook containing our finished work and discussions 
 
--data_cleaning.ipynb: Notebooks containing the authors preliminary EDA and data cleaning (/Data)
+-data_cleaning.ipynb: Notebooks containing the authors preliminary EDA and data cleaning 
 
--data_exploration: Notebooks containing the exploration of the data in zippedData file (/Data)
+-data_exploration: Notebooks containing the exploration of the data in zippedData file 
 
 -clean_data.csv: File containing our cleaned data sets (/Data)
 
--aggregate.db: database used in storing and retrieving our data  (/Data)
+-aggregate.db: database used in storing and retrieving our data 
 
 -zippedData: Original data obtained from the Flatiron School
 
